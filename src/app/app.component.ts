@@ -23,7 +23,7 @@ export class AppComponent {
   }
 
   
-  onChangeUseLetter() {
+  onChangeUseLetters() {
     this.includeLetters = !this.includeLetters;
   }
 
